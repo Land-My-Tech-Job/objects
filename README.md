@@ -1,6 +1,7 @@
 IMPORTANT: *Please don't forget to select **"Create a new branch for this commit and start a pull request".** Do not commit directly to the main/master branch*
 
 # Activity Overview
+In this exerice you'll practice working with objects and iterating through them
 
 # Learning Objectives 
 
